@@ -1,8 +1,8 @@
-# HertzHero Operating System
+# Hertz Hero Operating System
 
 
 
-![OS](https://img.shields.io/badge/Hertz%20Hero-V%202.0-Teal?style=for-the-badge)
+
 
 ![Real Hardware](https://img.shields.io/badge/Real%20Hardware-Tested-purple)
 [![License](https://img.shields.io/badge/license-MIT-darkgreen.svg)](https://opensource.org/licenses/MIT)
